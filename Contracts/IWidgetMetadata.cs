@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Contracts
 {
-    public class Class1
+    public interface IWidgetMetadata
     {
+        string Name { get; }
     }
 }

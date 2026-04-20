@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="ChartsWidget/ChartsWidget.csproj" />
-  <Project Path="Contracts/Contracts.csproj" />
-  <Project Path="DashboardApp/DashboardApp.csproj" />
-  <Project Path="TextWidget/TextWidget.csproj" />
+  <Project Path="ChartsWidget/ChartsWidget.csproj" Id="a4b7087a-9e8c-40b0-8240-b2410758f17d" />
+  <Project Path="Contracts/Contracts.csproj" Id="b7790321-85ff-44ca-9bc5-98d12ee02ab7" />
+  <Project Path="DashboardApp/DashboardApp.csproj" Id="570e1900-365b-442a-b968-bc3a6a2eb14f" />
+  <Project Path="TextWidget/TextWidget.csproj" Id="d33ec06c-2f45-42e7-928e-2cf5624cc098" />
 </Solution>
