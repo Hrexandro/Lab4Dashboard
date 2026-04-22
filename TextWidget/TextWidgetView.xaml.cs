@@ -1,7 +1,12 @@
-﻿using System.Windows.Controls;
+﻿using System.ComponentModel.Composition;
+using System.ComponentModel.Composition;
+using System.Windows.Controls;
 
 namespace TextWidget
 {
+    [Export(typeof(TextWidgetView))]
+    [Export(typeof(UserControl))]
+    [ExportMetadata("Name", "Analizator tekstu")]
     public partial class TextWidgetView : UserControl
     {
         public TextWidgetView()

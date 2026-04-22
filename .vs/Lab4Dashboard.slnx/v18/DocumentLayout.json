@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TextWidget||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{570E1900-365B-442A-B968-BC3A6A2EB14F}|DashboardApp\\DashboardApp.csproj|D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\dashboardapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{570E1900-365B-442A-B968-BC3A6A2EB14F}|DashboardApp\\DashboardApp.csproj|solutionrelative:dashboardapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -14,16 +11,38 @@
       "RelativeMoniker": "D:0:0:{570E1900-365B-442A-B968-BC3A6A2EB14F}|DashboardApp\\DashboardApp.csproj|solutionrelative:dashboardapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{570E1900-365B-442A-B968-BC3A6A2EB14F}|DashboardApp\\DashboardApp.csproj|d:\\marcin studia\\semestr 4\\programowanie dotnet\\lab4\\lab4dashboard\\dashboardapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{570E1900-365B-442A-B968-BC3A6A2EB14F}|DashboardApp\\DashboardApp.csproj|D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\dashboardapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{570E1900-365B-442A-B968-BC3A6A2EB14F}|DashboardApp\\DashboardApp.csproj|solutionrelative:dashboardapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7790321-85FF-44CA-9BC5-98D12EE02AB7}|Contracts\\Contracts.csproj|D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\contracts\\iwidgetmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7790321-85FF-44CA-9BC5-98D12EE02AB7}|Contracts\\Contracts.csproj|solutionrelative:contracts\\iwidgetmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ChartsWidget||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TextWidget||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7087A-9E8C-40B0-8240-B2410758F17D}|ChartsWidget\\ChartsWidget.csproj|d:\\marcin studia\\semestr 4\\programowanie dotnet\\lab4\\lab4dashboard\\chartswidget\\chartswidgetplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7087A-9E8C-40B0-8240-B2410758F17D}|ChartsWidget\\ChartsWidget.csproj|solutionrelative:chartswidget\\chartswidgetplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7087A-9E8C-40B0-8240-B2410758F17D}|ChartsWidget\\ChartsWidget.csproj|d:\\marcin studia\\semestr 4\\programowanie dotnet\\lab4\\lab4dashboard\\chartswidget\\chartswidgetview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B7087A-9E8C-40B0-8240-B2410758F17D}|ChartsWidget\\ChartsWidget.csproj|solutionrelative:chartswidget\\chartswidgetview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33EC06C-2F45-42E7-928E-2CF5624CC098}|TextWidget\\TextWidget.csproj|d:\\marcin studia\\semestr 4\\programowanie dotnet\\lab4\\lab4dashboard\\textwidget\\textwidgetplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33EC06C-2F45-42E7-928E-2CF5624CC098}|TextWidget\\TextWidget.csproj|solutionrelative:textwidget\\textwidgetplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33EC06C-2F45-42E7-928E-2CF5624CC098}|TextWidget\\TextWidget.csproj|d:\\marcin studia\\semestr 4\\programowanie dotnet\\lab4\\lab4dashboard\\textwidget\\textwidgetview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33EC06C-2F45-42E7-928E-2CF5624CC098}|TextWidget\\TextWidget.csproj|solutionrelative:textwidget\\textwidgetview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{570E1900-365B-442A-B968-BC3A6A2EB14F}|DashboardApp\\DashboardApp.csproj|D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\dashboardapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{570E1900-365B-442A-B968-BC3A6A2EB14F}|DashboardApp\\DashboardApp.csproj|solutionrelative:dashboardapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7790321-85FF-44CA-9BC5-98D12EE02AB7}|Contracts\\Contracts.csproj|D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\contracts\\iwidgetmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7790321-85FF-44CA-9BC5-98D12EE02AB7}|Contracts\\Contracts.csproj|solutionrelative:contracts\\iwidgetmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{570E1900-365B-442A-B968-BC3A6A2EB14F}|DashboardApp\\DashboardApp.csproj|D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\dashboardapp\\simpleeventaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,14 +72,6 @@
       "RelativeMoniker": "D:0:0:{B7790321-85FF-44CA-9BC5-98D12EE02AB7}|Contracts\\Contracts.csproj|solutionrelative:contracts\\ieventaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4B7087A-9E8C-40B0-8240-B2410758F17D}|ChartsWidget\\ChartsWidget.csproj|D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\chartswidget\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A4B7087A-9E8C-40B0-8240-B2410758F17D}|ChartsWidget\\ChartsWidget.csproj|solutionrelative:chartswidget\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B7087A-9E8C-40B0-8240-B2410758F17D}|ChartsWidget\\ChartsWidget.csproj|D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\chartswidget\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4B7087A-9E8C-40B0-8240-B2410758F17D}|ChartsWidget\\ChartsWidget.csproj|solutionrelative:chartswidget\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\TextWidget\\UserControl1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TextWidget\\UserControl1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -69,7 +80,18 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TextWidget\\UserControl1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\ChartsWidget\\UserControl1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChartsWidget\\UserControl1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\ChartsWidget\\UserControl1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChartsWidget\\UserControl1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D33EC06C-2F45-42E7-928E-2CF5624CC098}|TextWidget\\TextWidget.csproj|d:\\marcin studia\\semestr 4\\programowanie dotnet\\lab4\\lab4dashboard\\textwidget\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B7087A-9E8C-40B0-8240-B2410758F17D}|ChartsWidget\\ChartsWidget.csproj|d:\\marcin studia\\semestr 4\\programowanie dotnet\\lab4\\lab4dashboard\\chartswidget\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,11 +101,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "ChartsWidget",
+              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\ChartsWidget\\ChartsWidget.csproj",
+              "RelativeDocumentMoniker": "ChartsWidget\\ChartsWidget.csproj",
+              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\ChartsWidget\\ChartsWidget.csproj",
+              "RelativeToolTip": "ChartsWidget\\ChartsWidget.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-22T18:31:35.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChartsWidgetPlugin.cs",
+              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\ChartsWidget\\ChartsWidgetPlugin.cs",
+              "RelativeDocumentMoniker": "ChartsWidget\\ChartsWidgetPlugin.cs",
+              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\ChartsWidget\\ChartsWidgetPlugin.cs",
+              "RelativeToolTip": "ChartsWidget\\ChartsWidgetPlugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T18:30:52.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChartsWidgetView.xaml.cs",
+              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\ChartsWidget\\ChartsWidgetView.xaml.cs",
+              "RelativeDocumentMoniker": "ChartsWidget\\ChartsWidgetView.xaml.cs",
+              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\ChartsWidget\\ChartsWidgetView.xaml.cs",
+              "RelativeToolTip": "ChartsWidget\\ChartsWidgetView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T18:30:40.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TextWidgetPlugin.cs",
+              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\TextWidget\\TextWidgetPlugin.cs",
+              "RelativeDocumentMoniker": "TextWidget\\TextWidgetPlugin.cs",
+              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\TextWidget\\TextWidgetPlugin.cs",
+              "RelativeToolTip": "TextWidget\\TextWidgetPlugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T18:30:00.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextWidgetView.xaml.cs",
+              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\TextWidget\\TextWidgetView.xaml.cs",
+              "RelativeDocumentMoniker": "TextWidget\\TextWidgetView.xaml.cs",
+              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\TextWidget\\TextWidgetView.xaml.cs",
+              "RelativeToolTip": "TextWidget\\TextWidgetView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T18:29:39.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TextWidget",
               "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\TextWidget\\TextWidget.csproj",
               "RelativeDocumentMoniker": "TextWidget\\TextWidget.csproj",
@@ -95,66 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SimpleEventAggregator.cs",
-              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\SimpleEventAggregator.cs",
-              "RelativeDocumentMoniker": "DashboardApp\\SimpleEventAggregator.cs",
-              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\SimpleEventAggregator.cs",
-              "RelativeToolTip": "DashboardApp\\SimpleEventAggregator.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:25:23.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Settings.settings",
-              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\Properties\\Settings.settings",
-              "RelativeDocumentMoniker": "DashboardApp\\Properties\\Settings.settings",
-              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\Properties\\Settings.settings",
-              "RelativeToolTip": "DashboardApp\\Properties\\Settings.settings",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
-              "WhenOpened": "2026-04-21T11:24:15.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "DashboardApp\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "DashboardApp\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:24:11.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IWidget.cs",
-              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\Contracts\\IWidget.cs",
-              "RelativeDocumentMoniker": "Contracts\\IWidget.cs",
-              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\Contracts\\IWidget.cs",
-              "RelativeToolTip": "Contracts\\IWidget.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T21:00:33.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IWidgetMetadata.cs",
-              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\Contracts\\IWidgetMetadata.cs",
-              "RelativeDocumentMoniker": "Contracts\\IWidgetMetadata.cs",
-              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\Contracts\\IWidgetMetadata.cs",
-              "RelativeToolTip": "Contracts\\IWidgetMetadata.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T21:00:45.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\App.xaml",
               "RelativeDocumentMoniker": "DashboardApp\\App.xaml",
@@ -167,43 +194,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "DashboardApp\\App.xaml.cs",
-              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\App.xaml.cs",
-              "RelativeToolTip": "DashboardApp\\App.xaml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABwAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:45:24.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "DashboardApp\\MainWindow.xaml",
-              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\MainWindow.xaml",
-              "RelativeToolTip": "DashboardApp\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-19T14:11:41.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DashboardApp\\MainWindow.xaml.cs",
               "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "DashboardApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T14:11:38.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DashboardApp\\App.xaml.cs",
+              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\App.xaml.cs",
+              "RelativeToolTip": "DashboardApp\\App.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:45:24.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DashboardApp\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "DashboardApp\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:24:11.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "DashboardApp\\Properties\\Settings.settings",
+              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\Properties\\Settings.settings",
+              "RelativeToolTip": "DashboardApp\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2026-04-21T11:24:15.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SimpleEventAggregator.cs",
+              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\SimpleEventAggregator.cs",
+              "RelativeDocumentMoniker": "DashboardApp\\SimpleEventAggregator.cs",
+              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\SimpleEventAggregator.cs",
+              "RelativeToolTip": "DashboardApp\\SimpleEventAggregator.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:25:23.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IWidget.cs",
+              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\Contracts\\IWidget.cs",
+              "RelativeDocumentMoniker": "Contracts\\IWidget.cs",
+              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\Contracts\\IWidget.cs",
+              "RelativeToolTip": "Contracts\\IWidget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T21:00:33.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWidgetMetadata.cs",
+              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\Contracts\\IWidgetMetadata.cs",
+              "RelativeDocumentMoniker": "Contracts\\IWidgetMetadata.cs",
+              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\Contracts\\IWidgetMetadata.cs",
+              "RelativeToolTip": "Contracts\\IWidgetMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T21:00:45.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DashboardApp\\MainWindow.xaml",
+              "ToolTip": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\MainWindow.xaml",
+              "RelativeToolTip": "DashboardApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-19T14:11:41.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "UserControl1.xaml",
               "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\ChartsWidget\\UserControl1.xaml",
               "RelativeDocumentMoniker": "ChartsWidget\\UserControl1.xaml",
@@ -214,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "IEventAggregator.cs",
               "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\Contracts\\IEventAggregator.cs",
               "RelativeDocumentMoniker": "Contracts\\IEventAggregator.cs",
@@ -226,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "DataSubmittedEvent.cs",
               "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\Contracts\\DataSubmittedEvent.cs",
               "RelativeDocumentMoniker": "Contracts\\DataSubmittedEvent.cs",
@@ -238,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "UserControl1.xaml.cs",
               "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\ChartsWidget\\UserControl1.xaml.cs",
               "RelativeDocumentMoniker": "ChartsWidget\\UserControl1.xaml.cs",
@@ -250,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "UserControl1.xaml",
               "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\TextWidget\\UserControl1.xaml",
               "RelativeDocumentMoniker": "TextWidget\\UserControl1.xaml",
@@ -261,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "UserControl1.xaml.cs",
               "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\TextWidget\\UserControl1.xaml.cs",
               "RelativeDocumentMoniker": "TextWidget\\UserControl1.xaml.cs",
@@ -273,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "DashboardApp",
               "DocumentMoniker": "D:\\Marcin studia\\semestr 4\\programowanie dotnet\\Lab4\\Lab4Dashboard\\DashboardApp\\DashboardApp.csproj",
               "RelativeDocumentMoniker": "DashboardApp\\DashboardApp.csproj",

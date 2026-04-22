@@ -11,13 +11,12 @@ namespace TextWidget
         private readonly TextWidgetView _view;
 
         public string Name => "Analizator tekstu";
-
         public object View => _view;
 
         [ImportingConstructor]
-        public TextWidgetPlugin(IEventAggregator eventAggregator)
+        public TextWidgetPlugin(IEventAggregator eventAggregator, TextWidgetView view)
         {
-            _view = new TextWidgetView();
+            _view = view;
             eventAggregator.Subscribe<DataSubmittedEvent>(OnDataReceived);
         }
 
@@ -26,7 +25,6 @@ namespace TextWidget
             var text = payload?.Data ?? string.Empty;
 
             int characterCount = text.Length;
-
             int wordCount = text
                 .Split(new[] { ' ', '\t', '\r', '\n' }, StringSplitOptions.RemoveEmptyEntries)
                 .Length;

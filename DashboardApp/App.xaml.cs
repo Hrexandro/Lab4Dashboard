@@ -58,9 +58,9 @@ namespace DashboardApp
                     _directoryCatalog.Refresh();
                     _mainWindow.LoadWidgets();
                 }
-                catch
+                catch (Exception ex)
                 {
-                    // przy kopiowaniu DLL zdarzenie może odpalić się zanim plik będzie gotowy
+                    System.Diagnostics.Debug.WriteLine($"Błąd odświeżania wtyczek: {ex.Message}");
                 }
             });
         }

@@ -13,13 +13,12 @@ namespace ChartsWidget
         private readonly ChartsWidgetView _view;
 
         public string Name => "Wykres liczb";
-
         public object View => _view;
 
         [ImportingConstructor]
-        public ChartsWidgetPlugin(IEventAggregator eventAggregator)
+        public ChartsWidgetPlugin(IEventAggregator eventAggregator, ChartsWidgetView view)
         {
-            _view = new ChartsWidgetView();
+            _view = view;
             eventAggregator.Subscribe<DataSubmittedEvent>(OnDataReceived);
         }
 
@@ -34,12 +33,8 @@ namespace ChartsWidget
             {
                 if (double.TryParse(part, NumberStyles.Any, CultureInfo.InvariantCulture, out double number))
                 {
-                    if (number < 0)
-                        number = 0;
-
-                    if (number > 150)
-                        number = 150;
-
+                    if (number < 0) number = 0;
+                    if (number > 150) number = 150;
                     values.Add(number);
                 }
             }

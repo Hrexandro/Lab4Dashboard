@@ -90,7 +90,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>if not exist "$(SolutionDir)DashboardApp\bin\Debug\Plugins" mkdir "$(SolutionDir)DashboardApp\bin\Debug\Plugins"
-copy /Y "$(TargetPath)" "$(SolutionDir)DashboardApp\bin\Debug\Plugins\"</PostBuildEvent>
+    <PostBuildEvent>if not exist "$(SolutionDir)DashboardApp\bin\$(Configuration)\Plugins" mkdir "$(SolutionDir)DashboardApp\bin\$(Configuration)\Plugins"
+copy /Y "$(TargetPath)" "$(SolutionDir)DashboardApp\bin\$(Configuration)\Plugins\"</PostBuildEvent>
   </PropertyGroup>
 </Project>
